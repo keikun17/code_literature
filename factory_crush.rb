@@ -1,3 +1,5 @@
+# Author : Buddy Magsipoc
+
 # There's this girl
 FactoryGirl.define do
   # that i really like.
@@ -35,4 +37,4 @@ factoryGirl.modify do
     bag     "Fake Jansport"
     makeup  nil
   end
-end
+end 
